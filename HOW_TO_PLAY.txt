@@ -1,0 +1,55 @@
+### JAK GRAÆ? ###
+
+Aby rozpoczac grê nale¿y u¿yæ kursora i wcisnac PLAY w g³ównym Menu. 
+
+Zadanie polega na zbiciu pi³ke wszystkich cegie³ek zdobywajac jak NAJMNIEJSZA liczbê punktów.
+Pi³ka zacznie siê poruszaæ po wcisniêciu ENTER. Dyskiem porusza siê za pomoca strza³ek (w prawo i w lewo). 
+Zniszczenie czerwonej ceg³y powoduje pojawienie siê bonusa:
+- czerwone serce - dodatkowe ¿ycie;
+- czarne serce - strata ¿ycia;
+- czerwona strza³ka - przyspieszenie pi³ki;
+- niebieska strza³ka - zwolnienie pi³ki;
+- zielony + - dodanie 100 punktów;
+- czerwony - - odjêcie 100 punktów;
+Szara cegie³ka nie ulega zniszczeniu. 
+Po przejsciu 6 leveli pojawi siê plansza zwyciêzcy. Nale¿y wcisnac ESC lub przycisk QUIT. 
+To spowoduje pojawienie siê w terminalu mo¿liwosci wpisania swojego imienia. Wynik zapisze siê w tablicy wyników.
+Utrata wszystkich ¿yæ powoduje zakoñczenie gry - nale¿y wcisnac ESC lub przycisk QUIT. 
+Po wcisniêciu spacji gra zostanie zatrzymana. 
+Po wcisnieciu 'r' - nastêpuje pononwe uruchomienie poziomu, kosztuje to jednak utrate ¿ycia. (Polecane w sytuacji kiedy pi³ka bêdzie odbijaæ siê bez koñca w jednym miejscu).
+
+W g³ównym MENU istnieje mo¿liwosæ wybrania poziomu trudnosci (DIFFICULTY) - dostêpne sa poziomy EASY i HARD (w ka¿dym 6 leveli)
+oraz sprawdzenie tablicy wyników. 
+
+Aby wyjsæ z aplikacji nale¿y wcisnac EXIT lub przycisk QUIT.
+
+
+### HOW TO PLAY ###
+
+To start the game, use the cursor and press PLAY on the main menu.
+
+The task involves breaking ball all the bricks and get the MINIMUM number of points.
+The ball starts to move when you press ENTER. Disc moves with the arrow keys (right and left).
+The destruction of red brick causes the appearance of a bonus:
+- a red heart - an extra life;
+- black heart - the loss of life;
+- red arrow - acceleration ball;
+- blue arrow - release the ball;
+- green+ - adding 100 points;
+- red- - subtracting 100 points;
+The gray brick is not destroyed.
+After going 6 levels you will see board the winner. Press the ESC or QUIT button.
+This causes the appearance of the terminal capabilities enter your name. The result will go down in the highscore.
+The loss of all life ends the game - press the ESC or QUIT button.
+After pressing the space bar, game is stopped.
+After pressing the 'r' - restarts level, but costs tom loss of life. (Featured in a situation where the ball will bounce endlessly in one place).
+
+In the main menu you can select the level of difficulty (DIFFICULTY) - available levels are EASY and HARD (every 6 levels)
+and check the scoreboard.
+
+
+To exit the application, press the EXIT or QUIT button.
+
+
+
+
