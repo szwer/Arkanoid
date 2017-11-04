@@ -1,29 +1,3 @@
-### JAK GRAÆ? ###
-
-Aby rozpoczac grê nale¿y u¿yæ kursora i wcisnac PLAY w g³ównym Menu. 
-
-Zadanie polega na zbiciu pi³ke wszystkich cegie³ek zdobywajac jak NAJMNIEJSZA liczbê punktów.
-Pi³ka zacznie siê poruszaæ po wcisniêciu ENTER. Dyskiem porusza siê za pomoca strza³ek (w prawo i w lewo). 
-Zniszczenie czerwonej ceg³y powoduje pojawienie siê bonusa:
-- czerwone serce - dodatkowe ¿ycie;
-- czarne serce - strata ¿ycia;
-- czerwona strza³ka - przyspieszenie pi³ki;
-- niebieska strza³ka - zwolnienie pi³ki;
-- zielony + - dodanie 100 punktów;
-- czerwony - - odjêcie 100 punktów;
-Szara cegie³ka nie ulega zniszczeniu. 
-Po przejsciu 6 leveli pojawi siê plansza zwyciêzcy. Nale¿y wcisnac ESC lub przycisk QUIT. 
-To spowoduje pojawienie siê w terminalu mo¿liwosci wpisania swojego imienia. Wynik zapisze siê w tablicy wyników.
-Utrata wszystkich ¿yæ powoduje zakoñczenie gry - nale¿y wcisnac ESC lub przycisk QUIT. 
-Po wcisniêciu spacji gra zostanie zatrzymana. 
-Po wcisnieciu 'r' - nastêpuje pononwe uruchomienie poziomu, kosztuje to jednak utrate ¿ycia. (Polecane w sytuacji kiedy pi³ka bêdzie odbijaæ siê bez koñca w jednym miejscu).
-
-W g³ównym MENU istnieje mo¿liwosæ wybrania poziomu trudnosci (DIFFICULTY) - dostêpne sa poziomy EASY i HARD (w ka¿dym 6 leveli)
-oraz sprawdzenie tablicy wyników. 
-
-Aby wyjsæ z aplikacji nale¿y wcisnac EXIT lub przycisk QUIT.
-
-
 ### HOW TO PLAY ###
 
 To start the game, use the cursor and press PLAY on the main menu.
@@ -47,9 +21,29 @@ After pressing the 'r' - restarts level, but costs tom loss of life. (Featured i
 In the main menu you can select the level of difficulty (DIFFICULTY) - available levels are EASY and HARD (every 6 levels)
 and check the scoreboard.
 
-
 To exit the application, press the EXIT or QUIT button.
 
 
+### JAK GRAC##
 
+Aby rozpoczac gre nalezy uzyc kursora i wcisnac PLAY w glownym Menu. 
 
+Zadanie polega na zbiciu pilka wszystkich cegielek zdobywajac jak NAJMNIEJSZA liczbe punktow.
+Pilka zacznie sie poruszac po wcisnieciu ENTER. Dyskiem porusza sie za pomoca strzalek (w prawo i w lewo). 
+Zniszczenie czerwonej cegly powoduje pojawienie sie bonusa:
+- czerwone serce - dodatkowe zycie;
+- czarne serce - strata zycia;
+- czerwona strzalka - przyspieszenie pilki;
+- niebieska strzalka - zwolnienie pilki;
+- zielony + - dodanie 100 punktow;
+- czerwony - - odjÃªcie 100 punktow;
+Szara cegielka nie ulega zniszczeniu. 
+Po przejsciu 6 leveli pojawi sie plansza zwyciezcy. Nalezy wcisnac ESC lub przycisk QUIT. 
+To spowoduje pojawienie sie w terminalu mozliwosci wpisania swojego imienia. Wynik zapisze sie w tablicy wynikÃ³w.
+Utrata wszystkich zyc powoduje zakonczenie gry - nalezy wcisnac ESC lub przycisk QUIT. 
+Po wcisnieciu spacji gra zostanie zatrzymana. 
+Po wcisnieciu 'r' - nastepuje pononwe uruchomienie poziomu, kosztuje to jednak utrate zycia. (Polecane w sytuacji kiedy pilka bedzie odbijanie sie bez konca w jednym miejscu).
+
+W glownym MENU istnieje mozliwosc wybrania poziomu trudnosci (DIFFICULTY) - dostepne sa poziomy EASY i HARD (w kazdym 6 leveli) oraz sprawdzenie tablicy wynikow. 
+
+Aby wyjsc z aplikacji nalezy wcisnac EXIT lub przycisk QUIT.
