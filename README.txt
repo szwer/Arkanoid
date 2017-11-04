@@ -2,7 +2,7 @@
 Arkanoid by Mateusz
 
 *Written by:
-Mateusz Szwerbel (mateusz.szwerbel@gmail.com).
+Mateusz Szwerbel (mateusz.szwerbel@gmail.com)
 
 
 *Licence: 
